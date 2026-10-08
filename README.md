@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Tommaso Moro
-Computer Science student at Università Ca' Foscari Venezia
+Computer Science student at Università Ca' Foscari of Venice 🎓
 
 🚀 Take a look at some of my projects on my **[portfolio](https://tommasomoro8.github.io/)**!
 
